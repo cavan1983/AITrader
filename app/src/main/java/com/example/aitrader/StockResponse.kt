@@ -1,7 +1,7 @@
 package com.example.aitrader
 
 import com.google.gson.annotations.SerializedName
-
+//test
 data class StockResponse(
     @SerializedName("c") val currentPrice: Double = 0.0,
     @SerializedName("d") val change: Double = 0.0,

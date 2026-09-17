@@ -1,0 +1,48 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized AI Chip / Brain -->
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M40,40 h28 v28 h-28 z" />
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1"
+        android:pathData="M44,40v-4 M49,40v-4 M54,40v-4 M59,40v-4 M64,40v-4" />
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1"
+        android:pathData="M44,68v4 M49,68v4 M54,68v4 M59,68v4 M64,68v4" />
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1"
+        android:pathData="M40,44h-4 M40,49h-4 M40,54h-4 M40,59h-4 M40,64h-4" />
+    <path
+        android:strokeColor="#06B6D4"
+        android:strokeWidth="1"
+        android:pathData="M68,44h4 M68,49h4 M68,54h4 M68,59h4 M68,64h4" />
+
+    <!-- Growth Chart / Candlestick -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M35,80 h6 v-15 h-6 z M45,80 h6 v-25 h-6 z M55,80 h6 v-20 h-6 z M65,80 h6 v-35 h-6 z" />
+
+    <!-- Rising Line Trend -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M30,75 L45,60 L55,65 L75,30" />
+
+    <!-- Cyan Glow highlight -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M54,54 m-3,0 a3,3 0 1,1 6,0 a3,3 0 1,1 -6,0" />
+
+</vector>
